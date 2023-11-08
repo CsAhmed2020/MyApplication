@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "8967455545",
+    "project_id": "laundryapp-499ea",
+    "storage_bucket": "laundryapp-499ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8967455545:android:8494415abf03d672c75ee8",
+        "android_client_info": {
+          "package_name": "com.ayamedica.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8967455545-rn22smdig2kp5hto0ejmu30ipu90lia3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5haC9Of4KI8tYx2hOcUkYjP-1kJS_HDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8967455545-rn22smdig2kp5hto0ejmu30ipu90lia3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8967455545:android:d6b263177cc57d69c75ee8",
+        "android_client_info": {
+          "package_name": "com.csahmed.laundryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8967455545-rn22smdig2kp5hto0ejmu30ipu90lia3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5haC9Of4KI8tYx2hOcUkYjP-1kJS_HDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8967455545-rn22smdig2kp5hto0ejmu30ipu90lia3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8967455545:android:ab035f4cc2ef49dfc75ee8",
+        "android_client_info": {
+          "package_name": "com.example.superjet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8967455545-rn22smdig2kp5hto0ejmu30ipu90lia3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5haC9Of4KI8tYx2hOcUkYjP-1kJS_HDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8967455545-rn22smdig2kp5hto0ejmu30ipu90lia3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

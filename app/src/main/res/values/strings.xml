@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hint_your_message">Your Message</string>
+    <string name="label_your_message">Message</string>
+    <string name="title_btn_set">Set</string>
+    <string name="received_message">received message</string>
+
+    <string name="title_activity_receiver">ReceiverActivity</string>
+
+    <string name="message_beaming_complete">Beaming complete</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+
+    <string name="front">FRONT</string>
+    <string name="back">BACK</string>
+
+</resources>
